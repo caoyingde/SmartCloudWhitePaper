@@ -1,16 +1,4 @@
----
-title: 简介 - VLOOK™ - Markdown 编辑器 Typora 的主题包和增强插件
-author: MAX°孟兆
-keywords:
-- Markdown,Typora,VLOOK,Plugin,插件,主题包,自动排版,跨平台,i18n,开源,MIT,开源中国,OSC,编辑推荐
-- 表格增强,单元格合并,行分组,表格阅读模式,表格十字光标,重复表头,刮刮卡,黑幕,标签,图片增强,演示辅助,聚光灯,激光笔,自动折叠,打印,Mermaid,音频,视频,注音,主题,字体,模板,深色模式,Dark Mode,封面,封底,私人定制
-- PRD,设计,需求,文档,博客,手册,指南,在线,运维,知识库,WIKI
-- 产品经理,程序员,运维工程师,售前,售后
-vlook-query: effects=2&ws=auto&lmc=1
-vlook-doc-lib: vlook-lib.html
----
-
-###### <sub>VLOOK™</sub><br />让你的 sdfsdfd有了新`{看}(wán)`法<br />──<br /><sup>简介</sup><br />`#最新版本|V14.0#`<br /><br /><br />**MAX°孟兆**<br />*COPYRIGHT © 2016-2022. MAX°DESIGN.*
+###### <sub>SmartCloud™</sub><br />城市智慧停车云平台<br />──<br /><sup>简介</sup><br />`#最新版本|V14.0#`<br /><br /><br />**城市停车研发团队**<br />*COPYRIGHT © 2016-2022. SmartCloud Team.*
 
 [TOC]
 
