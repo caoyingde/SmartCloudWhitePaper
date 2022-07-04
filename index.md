@@ -4,7 +4,7 @@
 
 > **Select language ❯ **[<kbd>🇬🇧 English</kbd>](index-en.md)
 
-# VLOOK™ 是什么
+# SmartCloud™ 是什么
 
 `#Editor|Typora#(gray)` `#OS|macOS#(black)` `#OS|Windows#(blue)` `#License|MIT#(red)`
 
